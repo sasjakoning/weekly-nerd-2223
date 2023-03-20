@@ -1,5 +1,6 @@
 # Weekly Nerd [@cmda-minor-web](https://github.com/cmda-minor-web) 2022 - 2023
 
+<br>
 
 ## Documentation about the individual Weekly Nerds are in the [wiki](https://github.com/sasjakoning/weekly-nerd-2223/wiki)
 
